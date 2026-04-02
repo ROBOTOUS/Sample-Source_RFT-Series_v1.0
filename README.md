@@ -10,7 +10,7 @@ Unzip the following file and install the device driver:
 
 >02_USB_Device_Driver\CDM v2.12.24 WHQL Certified(ONLY_WINDOWS)
 
-You can downlaod the latest divice driver from the site below.
+You can download the latest divice driver from the site below.
 
 ```text
 http://www.ftdichip.com/Drivers/VCP.htm
